@@ -1,4 +1,4 @@
-Recent developments in the automobile industryhas paved a way for drastic increase in the use of vehiclesfor transportation and luxury cars. Many traditional sys-tems use windshield wipers which works intermittently andwith variable speeds during rain. In majority of the vehiclesan adjustable lever near the steering of the driver has to beoperated by the driver to control the windshield wiper(s).This change of lever position will distract the driver’sattention, more so during poor visibility that may lead tountoward incidents. 
+Recent developments in the automobile industry has paved a way for drastic increase in the use of vehicles for transportation and luxury cars. Many traditional systems use windshield wipers which works intermittently andwith variable speeds during rain. In majority of the vehiclesan adjustable lever near the steering of the driver has to beoperated by the driver to control the windshield wiper(s).This change of lever position will distract the driver’sattention, more so during poor visibility that may lead tountoward incidents. 
 
 
 
