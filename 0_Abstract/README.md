@@ -9,3 +9,5 @@ To overcome the problem here i designed a wipercontrolsystem using the STM32F4xx
 
 
 Wiper is ON: Initially, the wiper is off. On pressing the user input, Blue, Green, and Orange LEDs blink one at a time with the set frequency. The frequency changes with each alternate key press (key means push button). When the 1st key is pressed, the LED blinks at 1 sec per key, and when the 2nd key is pressed, the LED blinks at 0.25 sec per key press, and when the 3rd key is pressed, the LED blinks at 0.125 sec per key press. Wiper is OFF: Wiper is ON: The LED glow pattern stops after the fourth press; the wiper action begins after the second press onwards as explained in step 2. If the user button is pressed and held for 2 seconds, the red LED is off at the lock position.
+
+
