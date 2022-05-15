@@ -14,8 +14,28 @@ To overcome the problem here i designed a wipercontrolsystem using the STM32F4xx
 
 # components 
 1.STM32F407 Discovery Board
+
+
+
+
+
 2.Push Button
+
+
+
+
+
+
+
 3.LEDs
+
+
+
+
+
+
+
+
 4.Power Supply
 
 
@@ -131,10 +151,39 @@ S-BUS This bus connects the system bus of the Cortex®-M4 with FPU core to a Bus
 
 
 STM32F407VG 168MHz (100pin)
+
+
+
+
 1024KB flash ROM, 192KB RAM
+
+
+
+
+
 3axis accelerometer LIS302DL or LIS3DSH (Depending on which revision Discovery board you have)
+
+
+
+
 mems microphopne MP45DT02, audio amp CS43L22
+
+
+
+
 4 user LEDs
+
+
+
+
 1 user switch
+
+
+
+
 Reset switch
+
+
+
+
 USB OTG
