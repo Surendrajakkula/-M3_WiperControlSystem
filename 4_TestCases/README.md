@@ -7,8 +7,8 @@
 | T_02 | Change of wiper blades speed | giving key | change of speed |Pass|
 | T_03 | Wiper coming to rest position | pressing the PUSH button | Wipers in intial position | Pass |
 | T_04 | Wiper On |Pressing user button once |Wiper Status-1Hz |pass|
-| T_05 | Wiper On |Pressing user button Twice |Wiper Status-1Hz	|pass|
-| T_06 | Wiper On |Pressing user button thrice |Wiper Status-1Hz |pass|
+| T_05 | Wiper On |Pressing user button Twice |Wiper Status-4Hz	|pass|
+| T_06 | Wiper On |Pressing user button thrice |Wiper Status-8Hz |pass|
 
 ## LOW LEVEL TEST PLAN
 
