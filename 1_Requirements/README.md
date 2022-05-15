@@ -25,40 +25,41 @@ It is a Wiper Speed Control System programme for all automobiles.
 # WHEN
 when it rains  Wiper control system can be used
 
+# WHERE
+
+car wipers are controlled by the stalk on the right side of the steering wheel
+
+# HOW
+
+Windshield wipers are a small part of your car, but they have a big impact on your driving and overall safety. They remove rain, snow, dirt, pollen, frost and other debris quickly and smoothly at the push of a button! The windshield wiper motor moves the windshield.
 
 
+# SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
 
 
+# STRENGTH
+
+Car wipers, an important safety component
+
+Windshield wipers play a crucial role in the safety of the driver and the passengers, therefore, it must be given as much importance as to any other part of the car. It cleans the windshield and helps to see clearly during dust storms and heavy rainfall.
+
+By providing ON/OFF push buttons, it can be operated manually or automatically.
 
 
+# WEAKNESS
+
+This system applied in the case of water falling on the glass only.
+The cost of overall system increases as additional components are needed along with rain sensor.
+In order to avoid false detection of rain, it requires rain sensors to take decision after few minutes.
 
 
+# OPPORTUNITY
 
+Essentially, the wiper system is designed to clean the windscreen sufficiently to provide adequate visibility at all times.
 
+# THREATS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Advance Technology has taken its place. In the rain, wiper blend could be a problem.
 
 
 
