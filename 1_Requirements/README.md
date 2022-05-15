@@ -83,9 +83,9 @@ Advance Technology has taken its place. In the rain, wiper blend could be a prob
 
 | ID | Description | Category |
 | --- | --- | --- | 
-| LLR01 |  | Hardware |
-| LLR02 |  | Hardware |
-| LLR03 |  | Hardware |
-| LLR04 |  | Hardware |
+| LLR01 | power supply | Hardware |
+| LLR02 | LED | Hardware |
+| LLR03 |  STMcube IDE | Hardware |
+
 
 
