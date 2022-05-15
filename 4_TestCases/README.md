@@ -114,7 +114,8 @@ The main purpose of this project is to get an insight into the STM32F407 Discove
 
                                               Figure 1 : STM32F407 Discovery Board
 
-![image](https://user-images.githubusercontent.com/70704291/168470844-07e9b884-b380-41bc-ac42-a3229fada2cf.png)
+![STM32](https://user-images.githubusercontent.com/70704291/168471287-d8a22724-86e5-40e3-b592-8ce03190f999.png)
+
 
 
 
@@ -150,40 +151,40 @@ S-BUS This bus connects the system bus of the Cortex®-M4 with FPU core to a Bus
 
 
 
-STM32F407VG 168MHz (100pin)
+1)TM32F407VG 168MHz (100pin)
 
 
 
 
-1024KB flash ROM, 192KB RAM
+2)1024KB flash ROM, 192KB RAM
 
 
 
 
 
-3axis accelerometer LIS302DL or LIS3DSH (Depending on which revision Discovery board you have)
+3)3axis accelerometer LIS302DL or LIS3DSH (Depending on which revision Discovery board you have)
 
 
 
 
-mems microphopne MP45DT02, audio amp CS43L22
+4)mems microphopne MP45DT02, audio amp CS43L22
 
 
 
 
-4 user LEDs
+5)4 user LEDs
 
 
 
 
-1 user switch
+6)1 user switch
 
 
 
 
-Reset switch
+7)Reset switch
 
 
 
 
-USB OTG
+8)USB OTG
