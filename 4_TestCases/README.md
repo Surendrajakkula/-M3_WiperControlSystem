@@ -12,7 +12,7 @@
 
 ## LOW LEVEL TEST PLAN
 
-| Test ID | Description | Expected O/P | Actual O/P |  
+| Test ID | Description | Expected output | Actual output |  
 | --- | --- | --- | ---- |
 | L_01 | Car turned ON | Glowing of LED"s | Passed |
 | L_02 | Changing Key position | Change in speed | Passed|
